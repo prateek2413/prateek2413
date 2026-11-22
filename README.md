@@ -264,7 +264,7 @@ Learning:
   - Software Design & Problem Solving
 
 Building:
-  - Software Engineering and Full-Stack Projects
+  - Software Engineering Projects
   - Scalable, Resume-Ready Applications
 
 Exploring:
