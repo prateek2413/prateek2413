@@ -8,7 +8,7 @@
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-8.57-7C3AED?style=flat-square&labelColor=1E1033)
+![CGPA](https://img.shields.io/badge/CGPA-8.54-7C3AED?style=flat-square&labelColor=1E1033)
 ![Graduation](https://img.shields.io/badge/Expected%20Graduation-June%202028-6D28D9?style=flat-square&labelColor=1E1033)
 ![Location](https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&labelColor=1E1033&logo=googlemaps&logoColor=white)
 
